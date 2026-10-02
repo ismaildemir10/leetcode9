@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Convert a Number to Hexadecimal" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Queue Reconstruction by Height" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1790886129114</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Queue Reconstruction by Height">
+      <created>1790971642567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1790971642567</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +106,7 @@
     <MESSAGE value="Frog Jump" />
     <MESSAGE value="Sum of Left Leaves" />
     <MESSAGE value="Convert a Number to Hexadecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert a Number to Hexadecimal" />
+    <MESSAGE value="Queue Reconstruction by Height" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue Reconstruction by Height" />
   </component>
 </project>
