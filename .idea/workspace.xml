@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Sum of Left Leaves" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Convert a Number to Hexadecimal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1790715879976</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Convert a Number to Hexadecimal">
+      <created>1790886129114</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790886129114</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +98,7 @@
     <MESSAGE value="Remove K Digits" />
     <MESSAGE value="Frog Jump" />
     <MESSAGE value="Sum of Left Leaves" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of Left Leaves" />
+    <MESSAGE value="Convert a Number to Hexadecimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert a Number to Hexadecimal" />
   </component>
 </project>
