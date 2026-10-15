@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Strong Password Checker" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Maximum XOR of Two Numbers in an Array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1791841877487</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Maximum XOR of Two Numbers in an Array">
+      <created>1791990920263</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791990920263</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +202,7 @@
     <MESSAGE value="Pacific Atlantic Water Flow" />
     <MESSAGE value="Battleships in a Board" />
     <MESSAGE value="Strong Password Checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strong Password Checker" />
+    <MESSAGE value="Maximum XOR of Two Numbers in an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum XOR of Two Numbers in an Array" />
   </component>
 </project>
