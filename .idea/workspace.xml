@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Longest Repeating Character Replacement" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Construct Quad Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1792180011808</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Construct Quad Tree">
+      <created>1792263316395</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1792263316395</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,6 +226,7 @@
     <MESSAGE value="Maximum XOR of Two Numbers in an Array" />
     <MESSAGE value="Reconstruct Original Digits from English" />
     <MESSAGE value="Longest Repeating Character Replacement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Longest Repeating Character Replacement" />
+    <MESSAGE value="Construct Quad Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construct Quad Tree" />
   </component>
 </project>
