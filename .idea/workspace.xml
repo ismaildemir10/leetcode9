@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Construct Quad Tree" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="N-ary Tree Level Order Traversal" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1792263316395</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="N-ary Tree Level Order Traversal">
+      <created>1792334656559</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1792334656560</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,6 +234,7 @@
     <MESSAGE value="Reconstruct Original Digits from English" />
     <MESSAGE value="Longest Repeating Character Replacement" />
     <MESSAGE value="Construct Quad Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construct Quad Tree" />
+    <MESSAGE value="N-ary Tree Level Order Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="N-ary Tree Level Order Traversal" />
   </component>
 </project>
