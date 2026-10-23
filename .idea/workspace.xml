@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Minimum Genetic Mutation" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Number of Segments in a String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,11 +230,17 @@
       <option name="project" value="LOCAL" />
       <updated>1792588320752</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Number of Segments in a String">
+      <created>1792680154304</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1792680154304</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Binary Watch" />
     <MESSAGE value="Remove K Digits" />
     <MESSAGE value="Frog Jump" />
     <MESSAGE value="Sum of Left Leaves" />
@@ -259,6 +265,7 @@
     <MESSAGE value="Flatten a Multilevel Doubly Linked List" />
     <MESSAGE value="All O`one Data Structure" />
     <MESSAGE value="Minimum Genetic Mutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minimum Genetic Mutation" />
+    <MESSAGE value="Number of Segments in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number of Segments in a String" />
   </component>
 </project>
