@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Non-overlapping Intervals" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Find Right Interval">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PathSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -244,11 +246,17 @@
       <option name="project" value="LOCAL" />
       <updated>1792765611068</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Find Right Interval">
+      <created>1792846565595</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1792846565595</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Frog Jump" />
     <MESSAGE value="Sum of Left Leaves" />
     <MESSAGE value="Convert a Number to Hexadecimal" />
     <MESSAGE value="Queue Reconstruction by Height" />
@@ -273,6 +281,7 @@
     <MESSAGE value="Minimum Genetic Mutation" />
     <MESSAGE value="Number of Segments in a String" />
     <MESSAGE value="Non-overlapping Intervals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Non-overlapping Intervals" />
+    <MESSAGE value="Find Right Interval" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find Right Interval" />
   </component>
 </project>
