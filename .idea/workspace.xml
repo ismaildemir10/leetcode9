@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Path Sum III" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Find All Anagrams in a String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,11 +257,17 @@
       <option name="project" value="LOCAL" />
       <updated>1792945029090</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Find All Anagrams in a String">
+      <created>1793042421024</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1793042421024</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Convert a Number to Hexadecimal" />
     <MESSAGE value="Queue Reconstruction by Height" />
     <MESSAGE value="Trapping Rain Water II" />
     <MESSAGE value="Longest Palindrome" />
@@ -286,6 +292,7 @@
     <MESSAGE value="Non-overlapping Intervals" />
     <MESSAGE value="Find Right Interval" />
     <MESSAGE value="Path Sum III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Path Sum III" />
+    <MESSAGE value="Find All Anagrams in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find All Anagrams in a String" />
   </component>
 </project>
