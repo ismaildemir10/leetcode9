@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Number of Boomerangs" />
+    <list default="true" id="a534be74-c37e-4547-b496-fed0bb25754a" name="Changes" comment="Find All Numbers Disappeared in an Array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,11 +314,17 @@
       <option name="project" value="LOCAL" />
       <updated>1793640799689</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Find All Numbers Disappeared in an Array">
+      <created>1793735665776</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1793735665777</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Strings" />
     <MESSAGE value="Partition Equal Subset Sum" />
     <MESSAGE value="Pacific Atlantic Water Flow" />
     <MESSAGE value="Battleships in a Board" />
@@ -343,6 +349,7 @@
     <MESSAGE value="Add Two Numbers II" />
     <MESSAGE value="Arithmetic Slices II - Subsequence" />
     <MESSAGE value="Number of Boomerangs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number of Boomerangs" />
+    <MESSAGE value="Find All Numbers Disappeared in an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find All Numbers Disappeared in an Array" />
   </component>
 </project>
